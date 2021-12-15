@@ -1,0 +1,7 @@
+{
+  "name": "roommoviecrud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
